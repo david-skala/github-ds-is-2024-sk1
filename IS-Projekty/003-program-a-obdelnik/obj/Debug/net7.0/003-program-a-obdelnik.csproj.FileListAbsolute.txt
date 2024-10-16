@@ -1,0 +1,14 @@
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\003-program-a-obdelnik\bin\Debug\net7.0\003-program-a-obdelnik.exe
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\003-program-a-obdelnik\bin\Debug\net7.0\003-program-a-obdelnik.deps.json
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\003-program-a-obdelnik\bin\Debug\net7.0\003-program-a-obdelnik.runtimeconfig.json
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\003-program-a-obdelnik\bin\Debug\net7.0\003-program-a-obdelnik.dll
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\003-program-a-obdelnik\bin\Debug\net7.0\003-program-a-obdelnik.pdb
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\003-program-a-obdelnik\obj\Debug\net7.0\003-program-a-obdelnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\003-program-a-obdelnik\obj\Debug\net7.0\003-program-a-obdelnik.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\003-program-a-obdelnik\obj\Debug\net7.0\003-program-a-obdelnik.AssemblyInfo.cs
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\003-program-a-obdelnik\obj\Debug\net7.0\003-program-a-obdelnik.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\003-program-a-obdelnik\obj\Debug\net7.0\003-program-a-obdelnik.dll
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\003-program-a-obdelnik\obj\Debug\net7.0\refint\003-program-a-obdelnik.dll
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\003-program-a-obdelnik\obj\Debug\net7.0\003-program-a-obdelnik.pdb
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\003-program-a-obdelnik\obj\Debug\net7.0\003-program-a-obdelnik.genruntimeconfig.cache
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\003-program-a-obdelnik\obj\Debug\net7.0\ref\003-program-a-obdelnik.dll
