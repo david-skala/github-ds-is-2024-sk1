@@ -47,6 +47,9 @@ string again = "a";
         int zaporna = 0;
         int nula = 0;
 
+        int suda = 0;
+        int licha = 0;
+
         Console.WriteLine("Náhodná čísla:");
         for(int i = 0; i < n; i++) {
             myArray[i] = randomNumber.Next(dm, hm + 1);
@@ -59,6 +62,8 @@ string again = "a";
             // if(myArray[i] == 0)
             //     nula++;
 
+            // Kladna, zaporna, nuly
+
             if(myArray[i] > 0)
                 kladna++;
             
@@ -68,6 +73,13 @@ string again = "a";
             else
                 nula++;
 
+            // Suda, licha
+
+            if (myArray[i] % 2 == 0)
+                suda++;
+            else
+                licha++;
+
         }
 
         Console.WriteLine();
@@ -75,6 +87,9 @@ string again = "a";
         Console.WriteLine("Počet kladných čísel: {0}", kladna);
         Console.WriteLine("Počet záporných čísel: {0}", zaporna);
         Console.WriteLine("Počet nul: {0}", nula);
+        Console.WriteLine();
+        Console.WriteLine("Počet sudých čísel: {0}", suda);
+        Console.WriteLine("Počet lichých čísel: {0}", licha);
 
         Console.WriteLine();
         Console.WriteLine("Pro opakování programu stiskněte klávesu a");
