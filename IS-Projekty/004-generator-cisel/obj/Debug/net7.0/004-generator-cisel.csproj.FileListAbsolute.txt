@@ -1,0 +1,14 @@
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\004-generator-cisel\bin\Debug\net7.0\004-generator-cisel.exe
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\004-generator-cisel\bin\Debug\net7.0\004-generator-cisel.deps.json
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\004-generator-cisel\bin\Debug\net7.0\004-generator-cisel.runtimeconfig.json
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\004-generator-cisel\bin\Debug\net7.0\004-generator-cisel.dll
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\004-generator-cisel\bin\Debug\net7.0\004-generator-cisel.pdb
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\004-generator-cisel\obj\Debug\net7.0\004-generator-cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\004-generator-cisel\obj\Debug\net7.0\004-generator-cisel.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\004-generator-cisel\obj\Debug\net7.0\004-generator-cisel.AssemblyInfo.cs
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\004-generator-cisel\obj\Debug\net7.0\004-generator-cisel.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\004-generator-cisel\obj\Debug\net7.0\004-generator-cisel.dll
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\004-generator-cisel\obj\Debug\net7.0\refint\004-generator-cisel.dll
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\004-generator-cisel\obj\Debug\net7.0\004-generator-cisel.pdb
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\004-generator-cisel\obj\Debug\net7.0\004-generator-cisel.genruntimeconfig.cache
+C:\aaa\IS-2024\github-ds-is-2024-sk1\IS-Projekty\004-generator-cisel\obj\Debug\net7.0\ref\004-generator-cisel.dll
