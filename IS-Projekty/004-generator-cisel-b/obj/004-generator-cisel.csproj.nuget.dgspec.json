@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\aaa\\IS-2024\\github-ds-is-2024-sk1\\IS-Projekty\\004-generator-cisel\\004-generator-cisel.csproj": {}
+    "C:\\aaa\\IS-2024\\github-ds-is-2024-sk1\\IS-Projekty\\004-generator-cisel-b\\004-generator-cisel.csproj": {}
   },
   "projects": {
-    "C:\\aaa\\IS-2024\\github-ds-is-2024-sk1\\IS-Projekty\\004-generator-cisel\\004-generator-cisel.csproj": {
+    "C:\\aaa\\IS-2024\\github-ds-is-2024-sk1\\IS-Projekty\\004-generator-cisel-b\\004-generator-cisel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\aaa\\IS-2024\\github-ds-is-2024-sk1\\IS-Projekty\\004-generator-cisel\\004-generator-cisel.csproj",
+        "projectUniqueName": "C:\\aaa\\IS-2024\\github-ds-is-2024-sk1\\IS-Projekty\\004-generator-cisel-b\\004-generator-cisel.csproj",
         "projectName": "004-generator-cisel",
-        "projectPath": "C:\\aaa\\IS-2024\\github-ds-is-2024-sk1\\IS-Projekty\\004-generator-cisel\\004-generator-cisel.csproj",
+        "projectPath": "C:\\aaa\\IS-2024\\github-ds-is-2024-sk1\\IS-Projekty\\004-generator-cisel-b\\004-generator-cisel.csproj",
         "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
-        "outputPath": "C:\\aaa\\IS-2024\\github-ds-is-2024-sk1\\IS-Projekty\\004-generator-cisel\\obj\\",
+        "outputPath": "C:\\aaa\\IS-2024\\github-ds-is-2024-sk1\\IS-Projekty\\004-generator-cisel-b\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"

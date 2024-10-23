@@ -43,13 +43,39 @@ string again = "a";
 
         Random randomNumber = new Random();
 
-        Console.WriteLine("\n\nNáhodná čísla:");
+        int kladna = 0;
+        int zaporna = 0;
+        int nula = 0;
+
+        Console.WriteLine("Náhodná čísla:");
         for(int i = 0; i < n; i++) {
             myArray[i] = randomNumber.Next(dm, hm + 1);
             Console.Write("{0}; ", myArray[i]);
+
+            // if(myArray[i] > 0)
+            //     kladna++;
+            // if(myArray[i] < 0)
+            //     zaporna++;
+            // if(myArray[i] == 0)
+            //     nula++;
+
+            if(myArray[i] > 0)
+                kladna++;
+            
+            else if(myArray[i] < 0)
+                zaporna++;
+            
+            else
+                nula++;
+
         }
 
         Console.WriteLine();
+        Console.WriteLine();
+        Console.WriteLine("Počet kladných čísel: {0}", kladna);
+        Console.WriteLine("Počet záporných čísel: {0}", zaporna);
+        Console.WriteLine("Počet nul: {0}", nula);
+
         Console.WriteLine();
         Console.WriteLine("Pro opakování programu stiskněte klávesu a");
         again = Console.ReadLine();
