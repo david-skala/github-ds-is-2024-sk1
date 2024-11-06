@@ -6,7 +6,7 @@ string again = "a";
 
         Console.Clear();
         Console.WriteLine("*******************************************");
-        Console.WriteLine("******** GENERÁTOR NÁHODNÝCH ČÍSEL ********");
+        Console.WriteLine("************ MAXIMUM A MINIMUM ************");
         Console.WriteLine("*******************************************");
         Console.WriteLine("*************** David Skála ***************");
         Console.WriteLine("*******************************************");
@@ -48,6 +48,27 @@ string again = "a";
             myArray[i] = randomNumber.Next(dm, hm + 1);
             Console.Write("{0}; ", myArray[i]);
         }
+
+        int max = myArray[0];
+        int min = myArray[0];
+        int pmax = 0;
+        int pmin = 0;
+
+        for(int i = 1; i < n; i++) {
+            if(myArray[i] > max) {
+                max = myArray[i];
+                pmax = i;
+            }
+            else if(myArray[i] < min) {
+                min = myArray[i]
+                pmin = i;
+            }
+        }
+
+        Console.WriteLine();
+        Console.WriteLine();
+        Console.WriteLine("Maximum z vygenerovaných čísel: {0}, na pozici {1}.", max, pmax);
+        Console.WriteLine("Minimum z vygenerovaných čísel: {0}, na pozici {1}.", min, pmin);
 
         Console.WriteLine();
         Console.WriteLine();
