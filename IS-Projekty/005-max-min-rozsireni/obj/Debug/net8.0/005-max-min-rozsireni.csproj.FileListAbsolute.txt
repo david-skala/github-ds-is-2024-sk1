@@ -1,0 +1,15 @@
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\005-max-min-rozsireni\obj\Debug\net8.0\005-max-min-rozsireni.GeneratedMSBuildEditorConfig.editorconfig
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\005-max-min-rozsireni\obj\Debug\net8.0\005-max-min-rozsireni.AssemblyInfoInputs.cache
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\005-max-min-rozsireni\obj\Debug\net8.0\005-max-min-rozsireni.AssemblyInfo.cs
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\005-max-min-rozsireni\obj\Debug\net8.0\005-max-min-rozsireni.csproj.CoreCompileInputs.cache
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\005-max-min-rozsireni\obj\Debug\net8.0\005-max-min-rozsireni.sourcelink.json
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\005-max-min-rozsireni\bin\Debug\net8.0\005-max-min-rozsireni.exe
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\005-max-min-rozsireni\bin\Debug\net8.0\005-max-min-rozsireni.deps.json
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\005-max-min-rozsireni\bin\Debug\net8.0\005-max-min-rozsireni.runtimeconfig.json
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\005-max-min-rozsireni\bin\Debug\net8.0\005-max-min-rozsireni.dll
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\005-max-min-rozsireni\bin\Debug\net8.0\005-max-min-rozsireni.pdb
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\005-max-min-rozsireni\obj\Debug\net8.0\005-max-min-rozsireni.dll
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\005-max-min-rozsireni\obj\Debug\net8.0\refint\005-max-min-rozsireni.dll
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\005-max-min-rozsireni\obj\Debug\net8.0\005-max-min-rozsireni.pdb
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\005-max-min-rozsireni\obj\Debug\net8.0\005-max-min-rozsireni.genruntimeconfig.cache
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\005-max-min-rozsireni\obj\Debug\net8.0\ref\005-max-min-rozsireni.dll
