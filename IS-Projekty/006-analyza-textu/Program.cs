@@ -27,8 +27,8 @@ class Program {
         // Výpis délky textu:
         Console.WriteLine(myText.Length);
 
-        string samohlasky = "aáeéěiíoóuůúyý";
-        string souhlasky = "bcdďfghjklmnňpqrřsštťvwxzž";
+        string samohlasky = "aáeéěiíoóuůúyýAÁEÉĚIÍOÓUŮÚYÝ";
+        string souhlasky = "bcdďfghjklmnňpqrřsštťvwxzžBCDFGHJKLMNŇPQRŘSŠTŤVWXZŽ";
         string cislice = "0123456789";
 
         int pocSamohlasek = 0;
@@ -38,22 +38,22 @@ class Program {
 
         foreach(char znak in myText) {
             if (souhlasky.Contains(znak)) {
-                pocSouhlasek++
+                pocSouhlasek++;
             } 
             else if (samohlasky.Contains(znak)) {
-                pocSamohlasek++
+                pocSamohlasek++;
             }
             else if (cislice.Contains(znak)) {
-                pocCislic++
+                pocCislic++;
             }
             else {
-                pocOstatnich++
+                pocOstatnich++;
             }
         }
 
         Console.WriteLine();
         Console.WriteLine("Počet souhlásek: {0}, samohlásek {1},", pocSouhlasek, pocSamohlasek);
-        Console.WriteLine("číslic: {0}, ostatních {1}.", pocCislic, pocOstatnich)
+        Console.WriteLine("číslic: {0}, ostatních {1}.", pocCislic, pocOstatnich);
 
         Console.WriteLine();
         Console.WriteLine("Pro opakování programu stiskněte klávesu a");
