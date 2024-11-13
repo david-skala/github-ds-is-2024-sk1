@@ -52,13 +52,18 @@ string again = "a";
 
         Stopwatch myStopwatch = new Stopwatch();
 
+        int CompareCount = 0;
+        int ChangeCount = 0;
+
         myStopwatch.Start();
         for(int i = 0; i < n-1; i++) {
             for(int j = 0; j < n-i-1; j++) {
+                CompareCount++;
                 if(myArray[j] < myArray[j+1]) {
                     int pom = myArray[j+1];
                     myArray[j+1] = myArray[j];
                     myArray[j] = pom;
+                    ChangeCount++;
                 }
             }
         }
@@ -73,6 +78,7 @@ string again = "a";
         Console.ForegroundColor = ConsoleColor.DarkGreen;
         Console.BackgroundColor = ConsoleColor.White;
         Console.WriteLine("\nDoba trvání řadícího cyklu bubble sort: {0}.", myStopwatch.Elapsed);
+        Console.WriteLine("\nPočet porovnání: {0}, počet změn pořadí: {1}.", CompareCount, ChangeCount);
         Console.ResetColor();
 
         Console.WriteLine();
