@@ -1,4 +1,5 @@
 ﻿using System.Globalization;
+using System.Diagnostics;
 
 string again = "a";
 
@@ -49,6 +50,9 @@ string again = "a";
             Console.Write("{0}; ", myArray[i]);
         }
 
+        Stopwatch myStopwatch = new Stopwatch();
+
+        myStopwatch.Start();
         for(int i = 0; i < n-1; i++) {
             for(int j = 0; j < n-i-1; j++) {
                 if(myArray[j] < myArray[j+1]) {
@@ -58,12 +62,18 @@ string again = "a";
                 }
             }
         }
+        myStopwatch.Stop();
 
         Console.WriteLine("\nSeřazené pole:");
         for(int i = 0; i < n; i++) {
             myArray[i] = randomNumber.Next(dm, hm + 1);
             Console.Write("{0}; ", myArray[i]);
         }
+
+        Console.ForegroundColor = ConsoleColor.DarkGreen;
+        Console.BackgroundColor = ConsoleColor.White;
+        Console.WriteLine("\nDoba trvání řadícího cyklu bubble sort: {0}.", myStopwatch.Elapsed);
+        Console.ResetColor();
 
         Console.WriteLine();
         Console.WriteLine();
