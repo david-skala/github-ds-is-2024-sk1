@@ -1,0 +1,15 @@
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\008-ostatni-razeni\obj\Debug\net8.0\008-ostatni-razeni.GeneratedMSBuildEditorConfig.editorconfig
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\008-ostatni-razeni\obj\Debug\net8.0\008-ostatni-razeni.AssemblyInfoInputs.cache
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\008-ostatni-razeni\obj\Debug\net8.0\008-ostatni-razeni.AssemblyInfo.cs
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\008-ostatni-razeni\obj\Debug\net8.0\008-ostatni-razeni.csproj.CoreCompileInputs.cache
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\008-ostatni-razeni\obj\Debug\net8.0\008-ostatni-razeni.sourcelink.json
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\008-ostatni-razeni\bin\Debug\net8.0\008-ostatni-razeni.exe
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\008-ostatni-razeni\bin\Debug\net8.0\008-ostatni-razeni.deps.json
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\008-ostatni-razeni\bin\Debug\net8.0\008-ostatni-razeni.runtimeconfig.json
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\008-ostatni-razeni\bin\Debug\net8.0\008-ostatni-razeni.dll
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\008-ostatni-razeni\bin\Debug\net8.0\008-ostatni-razeni.pdb
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\008-ostatni-razeni\obj\Debug\net8.0\008-ostatni-razeni.dll
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\008-ostatni-razeni\obj\Debug\net8.0\refint\008-ostatni-razeni.dll
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\008-ostatni-razeni\obj\Debug\net8.0\008-ostatni-razeni.pdb
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\008-ostatni-razeni\obj\Debug\net8.0\008-ostatni-razeni.genruntimeconfig.cache
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\008-ostatni-razeni\obj\Debug\net8.0\ref\008-ostatni-razeni.dll
