@@ -1,0 +1,15 @@
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\011-vypocet-pi\bin\Debug\net8.0\011-vypocet-pi.exe
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\011-vypocet-pi\bin\Debug\net8.0\011-vypocet-pi.deps.json
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\011-vypocet-pi\bin\Debug\net8.0\011-vypocet-pi.runtimeconfig.json
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\011-vypocet-pi\bin\Debug\net8.0\011-vypocet-pi.dll
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\011-vypocet-pi\bin\Debug\net8.0\011-vypocet-pi.pdb
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\011-vypocet-pi\obj\Debug\net8.0\011-vypocet-pi.GeneratedMSBuildEditorConfig.editorconfig
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\011-vypocet-pi\obj\Debug\net8.0\011-vypocet-pi.AssemblyInfoInputs.cache
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\011-vypocet-pi\obj\Debug\net8.0\011-vypocet-pi.AssemblyInfo.cs
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\011-vypocet-pi\obj\Debug\net8.0\011-vypocet-pi.csproj.CoreCompileInputs.cache
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\011-vypocet-pi\obj\Debug\net8.0\011-vypocet-pi.sourcelink.json
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\011-vypocet-pi\obj\Debug\net8.0\011-vypocet-pi.dll
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\011-vypocet-pi\obj\Debug\net8.0\refint\011-vypocet-pi.dll
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\011-vypocet-pi\obj\Debug\net8.0\011-vypocet-pi.pdb
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\011-vypocet-pi\obj\Debug\net8.0\011-vypocet-pi.genruntimeconfig.cache
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\011-vypocet-pi\obj\Debug\net8.0\ref\011-vypocet-pi.dll
