@@ -1,0 +1,15 @@
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\013-posloupnost\bin\Debug\net8.0\013-posloupnost.exe
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\013-posloupnost\bin\Debug\net8.0\013-posloupnost.deps.json
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\013-posloupnost\bin\Debug\net8.0\013-posloupnost.runtimeconfig.json
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\013-posloupnost\bin\Debug\net8.0\013-posloupnost.dll
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\013-posloupnost\bin\Debug\net8.0\013-posloupnost.pdb
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\013-posloupnost\obj\Debug\net8.0\013-posloupnost.GeneratedMSBuildEditorConfig.editorconfig
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\013-posloupnost\obj\Debug\net8.0\013-posloupnost.AssemblyInfoInputs.cache
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\013-posloupnost\obj\Debug\net8.0\013-posloupnost.AssemblyInfo.cs
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\013-posloupnost\obj\Debug\net8.0\013-posloupnost.csproj.CoreCompileInputs.cache
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\013-posloupnost\obj\Debug\net8.0\013-posloupnost.sourcelink.json
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\013-posloupnost\obj\Debug\net8.0\013-posloupnost.dll
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\013-posloupnost\obj\Debug\net8.0\refint\013-posloupnost.dll
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\013-posloupnost\obj\Debug\net8.0\013-posloupnost.pdb
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\013-posloupnost\obj\Debug\net8.0\013-posloupnost.genruntimeconfig.cache
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\013-posloupnost\obj\Debug\net8.0\ref\013-posloupnost.dll
