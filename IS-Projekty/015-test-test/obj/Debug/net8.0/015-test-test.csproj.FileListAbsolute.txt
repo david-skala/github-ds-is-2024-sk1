@@ -1,0 +1,15 @@
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\015-test-test\bin\Debug\net8.0\015-test-test.exe
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\015-test-test\bin\Debug\net8.0\015-test-test.deps.json
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\015-test-test\bin\Debug\net8.0\015-test-test.runtimeconfig.json
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\015-test-test\bin\Debug\net8.0\015-test-test.dll
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\015-test-test\bin\Debug\net8.0\015-test-test.pdb
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\015-test-test\obj\Debug\net8.0\015-test-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\015-test-test\obj\Debug\net8.0\015-test-test.AssemblyInfoInputs.cache
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\015-test-test\obj\Debug\net8.0\015-test-test.AssemblyInfo.cs
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\015-test-test\obj\Debug\net8.0\015-test-test.csproj.CoreCompileInputs.cache
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\015-test-test\obj\Debug\net8.0\015-test-test.sourcelink.json
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\015-test-test\obj\Debug\net8.0\015-test-test.dll
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\015-test-test\obj\Debug\net8.0\refint\015-test-test.dll
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\015-test-test\obj\Debug\net8.0\015-test-test.pdb
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\015-test-test\obj\Debug\net8.0\015-test-test.genruntimeconfig.cache
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\015-test-test\obj\Debug\net8.0\ref\015-test-test.dll
