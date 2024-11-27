@@ -1,0 +1,15 @@
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\014-prevod\bin\Debug\net8.0\014-prevod.exe
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\014-prevod\bin\Debug\net8.0\014-prevod.deps.json
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\014-prevod\bin\Debug\net8.0\014-prevod.runtimeconfig.json
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\014-prevod\bin\Debug\net8.0\014-prevod.dll
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\014-prevod\bin\Debug\net8.0\014-prevod.pdb
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\014-prevod\obj\Debug\net8.0\014-prevod.GeneratedMSBuildEditorConfig.editorconfig
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\014-prevod\obj\Debug\net8.0\014-prevod.AssemblyInfoInputs.cache
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\014-prevod\obj\Debug\net8.0\014-prevod.AssemblyInfo.cs
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\014-prevod\obj\Debug\net8.0\014-prevod.csproj.CoreCompileInputs.cache
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\014-prevod\obj\Debug\net8.0\014-prevod.sourcelink.json
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\014-prevod\obj\Debug\net8.0\014-prevod.dll
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\014-prevod\obj\Debug\net8.0\refint\014-prevod.dll
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\014-prevod\obj\Debug\net8.0\014-prevod.pdb
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\014-prevod\obj\Debug\net8.0\014-prevod.genruntimeconfig.cache
+C:\IS\github-ds-is-2024-sk1\IS-Projekty\014-prevod\obj\Debug\net8.0\ref\014-prevod.dll
