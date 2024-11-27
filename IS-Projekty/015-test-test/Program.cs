@@ -49,6 +49,31 @@ string again = "a";
             Console.Write("{0}; ", myArray[i]);
         }
 
+        // VÝPIS MAXIMA A MINIMA V POLI
+
+        int maximum = myArray[0];
+        int minimum = myArray[0];
+        int poziceMax = 0;
+        int poziceMin = 0;
+
+        for (int i = 1; i < n; i++) {
+            if (myArray[i] > maximum) {
+                maximum = myArray[i];
+                poziceMax = i;
+            }
+            else if (myArray[i] < minimum) {
+                minimum = myArray[i];
+                poziceMin = i;
+            }
+        }
+
+        Console.WriteLine();
+        Console.WriteLine();
+        Console.WriteLine("Maximum z vygenerovaných čísel: {0}, na pozici {1}.", maximum, poziceMax);
+        Console.WriteLine("Minimum z vygenerovaných čísel: {0}, na pozici {1}.", minimum, poziceMin);
+
+        // DALŠÍ ČÁST...
+
         Console.WriteLine();
         Console.WriteLine();
         Console.WriteLine("Pro opakování programu stiskněte klávesu a");
