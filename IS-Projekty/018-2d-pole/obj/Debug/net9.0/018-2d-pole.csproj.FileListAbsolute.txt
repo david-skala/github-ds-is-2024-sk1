@@ -1,0 +1,15 @@
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\018-2d-pole\bin\Debug\net9.0\018-2d-pole.exe
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\018-2d-pole\bin\Debug\net9.0\018-2d-pole.deps.json
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\018-2d-pole\bin\Debug\net9.0\018-2d-pole.runtimeconfig.json
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\018-2d-pole\bin\Debug\net9.0\018-2d-pole.dll
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\018-2d-pole\bin\Debug\net9.0\018-2d-pole.pdb
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\018-2d-pole\obj\Debug\net9.0\018-2d-pole.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\018-2d-pole\obj\Debug\net9.0\018-2d-pole.AssemblyInfoInputs.cache
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\018-2d-pole\obj\Debug\net9.0\018-2d-pole.AssemblyInfo.cs
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\018-2d-pole\obj\Debug\net9.0\018-2d-pole.csproj.CoreCompileInputs.cache
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\018-2d-pole\obj\Debug\net9.0\018-2d-pole.sourcelink.json
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\018-2d-pole\obj\Debug\net9.0\018-2d-pole.dll
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\018-2d-pole\obj\Debug\net9.0\refint\018-2d-pole.dll
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\018-2d-pole\obj\Debug\net9.0\018-2d-pole.pdb
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\018-2d-pole\obj\Debug\net9.0\018-2d-pole.genruntimeconfig.cache
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\018-2d-pole\obj\Debug\net9.0\ref\018-2d-pole.dll
