@@ -1,0 +1,15 @@
+c:\aaa\github-ds-is-2024-sk1\IS-Projekty\017-fibonacciho-posloupnost\bin\Debug\net9.0\017-fibonacciho-posloupnost.exe
+c:\aaa\github-ds-is-2024-sk1\IS-Projekty\017-fibonacciho-posloupnost\bin\Debug\net9.0\017-fibonacciho-posloupnost.deps.json
+c:\aaa\github-ds-is-2024-sk1\IS-Projekty\017-fibonacciho-posloupnost\bin\Debug\net9.0\017-fibonacciho-posloupnost.runtimeconfig.json
+c:\aaa\github-ds-is-2024-sk1\IS-Projekty\017-fibonacciho-posloupnost\bin\Debug\net9.0\017-fibonacciho-posloupnost.dll
+c:\aaa\github-ds-is-2024-sk1\IS-Projekty\017-fibonacciho-posloupnost\bin\Debug\net9.0\017-fibonacciho-posloupnost.pdb
+c:\aaa\github-ds-is-2024-sk1\IS-Projekty\017-fibonacciho-posloupnost\obj\Debug\net9.0\017-fibonacciho-posloupnost.GeneratedMSBuildEditorConfig.editorconfig
+c:\aaa\github-ds-is-2024-sk1\IS-Projekty\017-fibonacciho-posloupnost\obj\Debug\net9.0\017-fibonacciho-posloupnost.AssemblyInfoInputs.cache
+c:\aaa\github-ds-is-2024-sk1\IS-Projekty\017-fibonacciho-posloupnost\obj\Debug\net9.0\017-fibonacciho-posloupnost.AssemblyInfo.cs
+c:\aaa\github-ds-is-2024-sk1\IS-Projekty\017-fibonacciho-posloupnost\obj\Debug\net9.0\017-fibonacciho-posloupnost.csproj.CoreCompileInputs.cache
+c:\aaa\github-ds-is-2024-sk1\IS-Projekty\017-fibonacciho-posloupnost\obj\Debug\net9.0\017-fibonacciho-posloupnost.sourcelink.json
+c:\aaa\github-ds-is-2024-sk1\IS-Projekty\017-fibonacciho-posloupnost\obj\Debug\net9.0\017-fibonacciho-posloupnost.dll
+c:\aaa\github-ds-is-2024-sk1\IS-Projekty\017-fibonacciho-posloupnost\obj\Debug\net9.0\refint\017-fibonacciho-posloupnost.dll
+c:\aaa\github-ds-is-2024-sk1\IS-Projekty\017-fibonacciho-posloupnost\obj\Debug\net9.0\017-fibonacciho-posloupnost.pdb
+c:\aaa\github-ds-is-2024-sk1\IS-Projekty\017-fibonacciho-posloupnost\obj\Debug\net9.0\017-fibonacciho-posloupnost.genruntimeconfig.cache
+c:\aaa\github-ds-is-2024-sk1\IS-Projekty\017-fibonacciho-posloupnost\obj\Debug\net9.0\ref\017-fibonacciho-posloupnost.dll
