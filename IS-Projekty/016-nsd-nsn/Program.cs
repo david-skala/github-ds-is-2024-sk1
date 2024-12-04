@@ -33,7 +33,8 @@ class Program {
         Console.WriteLine();
         }
 
-        static ulong nacistCislo(string sprava) {
+        static ulong nacistCislo(string zprava) {
+            Console.Write(zprava);
             ulong cislo;
             while(!ulong.TryParse(Console.ReadLine(), out cislo)) {
             Console.Write("Nezadali jste celé číslo. Zadejte první číslo řady znovu: ");
