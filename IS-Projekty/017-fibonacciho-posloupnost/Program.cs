@@ -1,47 +1,65 @@
-﻿using System;
+﻿﻿using System;
 using System.Diagnostics;
 
-class Program
+static ulong NactiDlouheKladneCislo(string text1, string text2)
 {
-    static ulong Fibonacci(int n)
-    {
-        if (n == 0) return 0;
-        if (n == 1) return 1;
+    Console.Write(text1);
+    ulong cislo;
+    while(!ulong.TryParse(Console.ReadLine(), out cislo))
+        Console.Write(text2);
+    return cislo;
+}
 
-        ulong a = 0, b = 1, c = 0;
+static ulong FibonacciKlasik(ulong x) {
+    if (x == 0)
+        return 0;
+    
+    if (x == 1)
+        return 1;
+    
+    ulong predminulyPrvek = 0;
+    ulong minulyPrvek = 1;
+    ulong vysledek = 0;
+    for (ulong i = 1; i < x; i++) {
+        vysledek = predminulyPrvek + minulyPrvek;
+        predminulyPrvek = minulyPrvek;
+        minulyPrvek = vysledek;
+    }
+    return vysledek;
+}
+  
+string opakovani = "a";
+while (opakovani == "a") {
+    Console.Clear();
+    Console.WriteLine("********************************************");
+    Console.WriteLine("Fibonacciho posloupnost - iterativní způsob");
+    Console.WriteLine("********************************************");
 
-        for (int i = 2; i <= n; i++)
-        {
-            c = a + b;
-            a = b;
-            b = c;
-        }
+    ulong n = NactiDlouheKladneCislo("Zadejte, kolikátý prvek Fibonacciho posloupnosti chcete určit (n): ","Neplatný vstup. Zadej znovu číslo  n: ");    
 
-        return c;
+    Console.WriteLine("\n\n=========== Klasická = iterativní verze ===========");
+    Stopwatch stopwatch = new Stopwatch();
+    stopwatch.Start();
+
+    // nebo asi lepší
+    //  Stopwatch stopwatch = Stopwatch.StartNew(); 
+
+    ulong suma = 0;
+    for (ulong i = 0; i <= n; i++) {
+        ulong aktualPrvek = FibonacciKlasik(i);
+        suma = suma + aktualPrvek;
+        Console.Write("{0}; ", aktualPrvek);
     }
 
-    static void Main()
-    {
-        Console.Write("Zadejte počet členů Fibonacciho posloupnosti (n): ");
-        int n = int.Parse(Console.ReadLine());
+    Console.WriteLine();
+    Console.WriteLine("\n{0}. prvek Fibonacciho posloupnosti je: {1}", n, FibonacciKlasik(n));
 
-        Stopwatch stopwatch = Stopwatch.StartNew();
+    Console.WriteLine("\nSoučet posloupnosti (do {1} prvku): {0}", suma, n);
 
-        ulong sum = 0;
-        string output = "";
+    stopwatch.Stop();
+    Console.WriteLine("\nČas trvání výpočtu: {0}", stopwatch.Elapsed);
 
-        for (int i = 0; i < n; i++)
-        {
-            ulong fibNumber = Fibonacci(i);
-            sum += fibNumber;
-            output += fibNumber + "; ";
-        }
+    Console.WriteLine("\n\nOpakování programu - zmáčkněte klávesu a");
+    opakovani = Console.ReadLine();
 
-        stopwatch.Stop();
-
-        Console.WriteLine(output);
-        Console.WriteLine($"{n}. prvek Fibonacciho posloupnosti je: {Fibonacci(n - 1)}");
-        Console.WriteLine($"Součet posloupnosti (do {n} prvku): {sum}");
-        Console.WriteLine($"Čas trvání výpočtu: {stopwatch.Elapsed}");
-    }
 }
