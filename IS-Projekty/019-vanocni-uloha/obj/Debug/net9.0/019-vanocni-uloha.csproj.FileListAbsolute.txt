@@ -1,0 +1,15 @@
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\019-vanocni-uloha\bin\Debug\net9.0\019-vanocni-uloha.exe
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\019-vanocni-uloha\bin\Debug\net9.0\019-vanocni-uloha.deps.json
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\019-vanocni-uloha\bin\Debug\net9.0\019-vanocni-uloha.runtimeconfig.json
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\019-vanocni-uloha\bin\Debug\net9.0\019-vanocni-uloha.dll
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\019-vanocni-uloha\bin\Debug\net9.0\019-vanocni-uloha.pdb
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\019-vanocni-uloha\obj\Debug\net9.0\019-vanocni-uloha.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\019-vanocni-uloha\obj\Debug\net9.0\019-vanocni-uloha.AssemblyInfoInputs.cache
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\019-vanocni-uloha\obj\Debug\net9.0\019-vanocni-uloha.AssemblyInfo.cs
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\019-vanocni-uloha\obj\Debug\net9.0\019-vanocni-uloha.csproj.CoreCompileInputs.cache
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\019-vanocni-uloha\obj\Debug\net9.0\019-vanocni-uloha.sourcelink.json
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\019-vanocni-uloha\obj\Debug\net9.0\019-vanocni-uloha.dll
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\019-vanocni-uloha\obj\Debug\net9.0\refint\019-vanocni-uloha.dll
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\019-vanocni-uloha\obj\Debug\net9.0\019-vanocni-uloha.pdb
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\019-vanocni-uloha\obj\Debug\net9.0\019-vanocni-uloha.genruntimeconfig.cache
+C:\aaa\github-ds-is-2024-sk1\IS-Projekty\019-vanocni-uloha\obj\Debug\net9.0\ref\019-vanocni-uloha.dll
