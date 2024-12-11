@@ -79,13 +79,13 @@ string again = "a";
         double average = (double)sum / n;  // Spočítáme průměr
 
         // Získáme celočíselnou část a zbytek
-        int integerPart = (int)average;  // Celočíselná část průměru
-        int remainder = (int)((average - integerPart) * 100);  // Zbytek v setinách
+        int celociselna_cast = (int)average;  // Celočíselná část průměru
 
         Console.WriteLine();
         Console.WriteLine("Aritmetický průměr: {0}", average);
-        Console.WriteLine("Celočíselná část průměru: {0}", integerPart);
-        Console.WriteLine("Zbytek průměru (v setinách): {0}", remainder);
+        Console.WriteLine("Celočíselná část průměru: {0}", celociselna_cast);
+
+        // Vykreslení
 
 
         Console.WriteLine();
