@@ -37,17 +37,21 @@ string again = "a";
         Console.WriteLine("*******************************************");
         Console.WriteLine();
 
-        // Deklarace pole
+        // Deklarace pole - Generátor
 
         int[] myArray = new int[n];
 
         Random randomNumber = new Random();
 
-        Console.WriteLine("\n\nNáhodná čísla:");
+        Console.WriteLine("Náhodná čísla:");
+        int sum = 0;
         for(int i = 0; i < n; i++) {
             myArray[i] = randomNumber.Next(dm, hm + 1);
             Console.Write("{0}; ", myArray[i]);
+            sum += myArray[i]; // Přičítání každého čísla do součtu
         }
+
+        // Maximum a minimum
 
         int maximum = myArray[0];
         int minimum = myArray[0];
@@ -69,6 +73,20 @@ string again = "a";
         Console.WriteLine();
         Console.WriteLine("Maximum z vygenerovaných čísel: {0}, na pozici {1}.", maximum, poziceMax);
         Console.WriteLine("Minimum z vygenerovaných čísel: {0}, na pozici {1}.", minimum, poziceMin);
+
+        // Aritmetický průměr
+
+        double average = (double)sum / n;  // Spočítáme průměr
+
+        // Získáme celočíselnou část a zbytek
+        int integerPart = (int)average;  // Celočíselná část průměru
+        int remainder = (int)((average - integerPart) * 100);  // Zbytek v setinách
+
+        Console.WriteLine();
+        Console.WriteLine("Aritmetický průměr: {0}", average);
+        Console.WriteLine("Celočíselná část průměru: {0}", integerPart);
+        Console.WriteLine("Zbytek průměru (v setinách): {0}", remainder);
+
 
         Console.WriteLine();
         Console.WriteLine();
